@@ -44,5 +44,10 @@ while neuzmineja:
     else:
         # If the guess is correct, break the loop.
         neuzmineja = False
-        print_animation('Uzminējāt!!!', 0.2, 2)
-        print('Paldies, ka spēlējāt!')
+print('     ____.                                                  __  __')   
+print('    |    |__ __  ______  __ _____________  _______ _______ |__|/  |_ ')
+print('    |    |  |  \/  ___/ |  |  \___   /\  \/ /\__  \\_  __ \|  \   __\ ')
+print('/\__|    |  |  /\___ \  |  |  //    /  \   /  / __ \|  | \/|  ||  |   ')
+print('\________|____//____  > |____//_____ \  \_/  (____  /__/\__|  ||__|  ')
+print('                    \/              \/            \/   \______| ')
+print('Paldies, ka spēlējāt!')
