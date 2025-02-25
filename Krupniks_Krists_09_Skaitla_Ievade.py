@@ -1,0 +1,5 @@
+Nr1 = input("Ievadi 1. skaitli , kam jābūt daļskaitlim: ")
+Nr2 = input("Ievadi 2. skaitli , kam jābūt daļskaitlim: ")
+skaitlis_1 = float(Nr1)
+skaitlis_2 = float(Nr2)
+print(skaitlis_1 + skaitlis_2)
